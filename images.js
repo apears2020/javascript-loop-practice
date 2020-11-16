@@ -23,6 +23,11 @@ $(document).ready(function () {
          addImageToDiv("#while-loop");
         */
 
+        while(num === num){
+            $("#while-loop").append(addImageToDiv);
+            num++;
+        }
+
 
 
 
